@@ -11,7 +11,7 @@ def print_sequence():
     for num in sequence:
         print(num, end=" ")
 
-print_sequence()
+print_sequence() # 
 
 # Exercise 2 - Write a function, that will print the numbers for the following equation till they reach to 1.
 #         | x/2  , x is even
